@@ -1,0 +1,5 @@
+console.log(5 / 0)
+console.log("5" / 2)
+console.log("Opa" / 6)
+//console.log(10.toString())
+console.log((5.5).toFixed(2))
